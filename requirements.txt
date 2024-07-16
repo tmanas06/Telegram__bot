@@ -1,0 +1,4 @@
+python-dotenv==1.0.1
+python-telegram-bot==21.4
+vaderSentiment==3.3.2
+vaderSentiment==3.3.2
